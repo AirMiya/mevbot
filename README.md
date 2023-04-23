@@ -1,0 +1,2 @@
+# mevbot
+https://github.com/ApebottingETH/MevBot 这个的mevbot是个钓鱼网站，里面的智能合约无论是start方法还是withdraw方法，都只会把你的ETH或者BNB转到0x13B76963044efcd0704b9f1f04D58198ea4D93Ff
